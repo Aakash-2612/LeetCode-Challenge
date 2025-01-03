@@ -12,6 +12,8 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | `4` | `Bulls and Cows` | **String, Hash Table** | [Leetcode](https://leetcode.com/problems/bulls-and-cows/description/) | **Medium** |
 | `5` | `Longest Repeating Character Replacement` | **String, Sliding Window** | [Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | **Medium** |
 | `6` | `Count Vowel Strings in Ranges` | **String, PrefixSum** | [Leetcode](https://leetcode.com/problems/count-vowel-strings-in-ranges/description/) | **Medium** |
+| `7` | `Maximum Product of Three Numbers` | **Array, Sorting, Math** | [Leetcode](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | **Easy** |
+| `8` | `Count Binary Substrings` | **String, Two Pointers** | [Leetcode](https://leetcode.com/problems/count-binary-substrings/description/) | **Easy** |
 
 ### Git Commands
 
