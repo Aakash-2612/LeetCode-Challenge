@@ -15,6 +15,7 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | `7` | `Maximum Product of Three Numbers` | **Array, Sorting, Math** | [Leetcode](https://leetcode.com/problems/maximum-product-of-three-numbers/description/) | **Easy** |
 | `8` | `Count Binary Substrings` | **String, Two Pointers** | [Leetcode](https://leetcode.com/problems/count-binary-substrings/description/) | **Easy** |
 | `9` | `Number of Substrings Containing All Three Characters` | **String, Sliding Window, Hash Table** | [Leetcode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | **Medium** |
+| `10` | `Unique Length-3 Palindromic Subsequences` | **String, Hash Table** | [Leetcode](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | **Medium** |
 
 ### Git Commands
 
