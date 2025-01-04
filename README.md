@@ -16,6 +16,7 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | `8` | `Count Binary Substrings` | **String, Two Pointers** | [Leetcode](https://leetcode.com/problems/count-binary-substrings/description/) | **Easy** |
 | `9` | `Number of Substrings Containing All Three Characters` | **String, Sliding Window, Hash Table** | [Leetcode](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/) | **Medium** |
 | `10` | `Unique Length-3 Palindromic Subsequences` | **String, Hash Table** | [Leetcode](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | **Medium** |
+| `11` | `Get Equal Substrings Within Budget` | **String, PrefixSum, Sliding Window** | [Leetcode](https://leetcode.com/problems/get-equal-substrings-within-budget/description/) | **Medium** |
 
 ### Git Commands
 
