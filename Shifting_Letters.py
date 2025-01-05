@@ -29,7 +29,4 @@ class Solution:
             arr[i] = ((arr[i] + curSum) + 26)%26
 
         # print(arr)
-        res = ''
-        for i in arr:
-            res += chr(ord('a') + i)
-        return res
+        return ''.join(chr(i + ord('a') for i in arr))
