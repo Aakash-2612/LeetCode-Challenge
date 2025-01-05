@@ -18,6 +18,7 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | `10` | `Unique Length-3 Palindromic Subsequences` | **String, Hash Table** | [Leetcode](https://leetcode.com/problems/unique-length-3-palindromic-subsequences/description/) | **Medium** |
 | `11` | `Get Equal Substrings Within Budget` | **String, PrefixSum, Sliding Window** | [Leetcode](https://leetcode.com/problems/get-equal-substrings-within-budget/description/) | **Medium** |
 | `12` | `Shifting Letters` | **String, PrefixSum, Array** | [Leetcode](https://leetcode.com/problems/shifting-letters/description/) | **Medium** |
+| `13` | `Swap For Longest Repeated Character Substring` | **String, Hash Table, Sliding Window** | [Leetcode](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/) | **Medium** |
 
 ### Git Commands
 
