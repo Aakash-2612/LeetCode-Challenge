@@ -7,7 +7,7 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | Day no. | Title    | Approach             | Link | Difficulty Level |
 | :------ | :------- | :------------------- | :-----| :---------|
 | `1` | `Find All Anagrams in a String` | **Sliding Window, Hash Table** | [Leetcode](https://leetcode.com/problems/find-all-anagrams-in-a-string/description/) | **Medium** |
-| `2` | `Number of Ways to Split Array` | **Array, Prefix Sum** | [Leetcode](https://leetcode.com/problems/number-of-ways-to-split-array/description/) | **Medium** |
+| `2` | `Number of Ways to Split Array` | **Array, PrefixSum** | [Leetcode](https://leetcode.com/problems/number-of-ways-to-split-array/description/) | **Medium** |
 | `3` | `Lexicographically Smallest String After Operations With Constraint` | **String, Greedy** | [Leetcode](https://leetcode.com/problems/lexicographically-smallest-string-after-operations-with-constraint/description/) | **Medium** |
 | `4` | `Bulls and Cows` | **String, Hash Table** | [Leetcode](https://leetcode.com/problems/bulls-and-cows/description/) | **Medium** |
 | `5` | `Longest Repeating Character Replacement` | **String, Sliding Window** | [Leetcode](https://leetcode.com/problems/longest-repeating-character-replacement/description/) | **Medium** |
@@ -19,6 +19,8 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | `11` | `Get Equal Substrings Within Budget` | **String, PrefixSum, Sliding Window** | [Leetcode](https://leetcode.com/problems/get-equal-substrings-within-budget/description/) | **Medium** |
 | `12` | `Shifting Letters` | **String, PrefixSum, Array** | [Leetcode](https://leetcode.com/problems/shifting-letters/description/) | **Medium** |
 | `13` | `Swap For Longest Repeated Character Substring` | **String, Hash Table, Sliding Window** | [Leetcode](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/) | **Medium** |
+| `14` | `Product of Array Except Self` | **Array, PrefixSum** | [Leetcode](https://leetcode.com/problems/product-of-array-except-self/description/) | **Medium** |
+| `15` | `Minimum Number of Operations to Move All Balls to Each Box` | **String, Array, PrefixSum** | [Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | **Medium** |
 
 ### Git Commands
 
