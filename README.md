@@ -21,6 +21,7 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | `13` | `Swap For Longest Repeated Character Substring` | **String, Hash Table, Sliding Window** | [Leetcode](https://leetcode.com/problems/swap-for-longest-repeated-character-substring/description/) | **Medium** |
 | `14` | `Product of Array Except Self` | **Array, PrefixSum** | [Leetcode](https://leetcode.com/problems/product-of-array-except-self/description/) | **Medium** |
 | `15` | `Minimum Number of Operations to Move All Balls to Each Box` | **String, Array, PrefixSum** | [Leetcode](https://leetcode.com/problems/minimum-number-of-operations-to-move-all-balls-to-each-box/description/) | **Medium** |
+| `16` | `Count Prefix and Suffix Pairs I` | **Array, String** | [Leetcode](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | **Easy** |
 
 ### Git Commands
 
