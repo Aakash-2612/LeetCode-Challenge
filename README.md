@@ -24,6 +24,7 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | `16` | `Count Prefix and Suffix Pairs I` | **Array, String** | [Leetcode](https://leetcode.com/problems/count-prefix-and-suffix-pairs-i/description/) | **Easy** |
 | `17` | `Roman to Integer` | **Hash Table, Math, String** | [Leetcode](https://leetcode.com/problems/roman-to-integer/) | **Easy** |
 | `18` | `Maximum Number of Vowels in a Substring of Given Length` | **String, Sliding Window** | [Leetcode](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | **Medium** |
+| `19` | `Word Pattern` | **String, Hash Table** | [Leetcode](https://leetcode.com/problems/word-pattern/description/) | **Easy** |
 
 ### Git Commands
 
