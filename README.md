@@ -26,6 +26,7 @@ I have embarked on a mission to conquer 250 Leetcode challenges (in Python). To 
 | `18` | `Maximum Number of Vowels in a Substring of Given Length` | **String, Sliding Window** | [Leetcode](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/description/) | **Medium** |
 | `19` | `Word Pattern` | **String, Hash Table** | [Leetcode](https://leetcode.com/problems/word-pattern/description/) | **Easy** |
 | `20` | `Median of Two Sorted Arrays` | **Array, Binary Search, Divide and Conquer** | [Leetcode](https://leetcode.com/problems/median-of-two-sorted-arrays/) | **Hard** |
+| `21` | `Implement Trie (Prefix Tree)` | **Trie, Hash Table, String** | [Leetcode](https://leetcode.com/problems/implement-trie-prefix-tree/description/) | **Medium** |
 
 ### Git Commands
 
